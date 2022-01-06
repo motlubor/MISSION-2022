@@ -1,0 +1,39 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.orange-color{
+    color:orange;
+}
+.introducing-area{
+    display: flex;
+    
+}
+.half-width{
+    width:50%;
+   margin:5%;
+}
+.half-width img{
+    width: 80%;
+}
+.border-img{
+    border-left: 5px solid;
+    border-image: linear-gradient(orange, tomato);
+    border-image-slice: 1;
+    border-radius: 5px;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(hotpink, tomato);
+    border-radius: 5px;
+    padding:8px;
+    color:white;
+    font-weight: 500;
+}
