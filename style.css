@@ -97,7 +97,7 @@ width:100%;
 .gain-experience{
     display: flex;
     margin-top: 70px;
-    margin-bottom: 120px;
+    margin-bottom: 0px;
     margin-left: 5%;
     margin-right: 5%;
 }
