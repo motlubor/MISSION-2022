@@ -43,3 +43,38 @@ h1{
 .second-section{
     display:flex
 }
+
+
+.middle-section{
+    display:flex;
+}
+.middle-section img{
+    width:40%;
+}
+.card-one{
+    background-color:rgba(232, 243, 250, 0.959); 
+    margin-left: 5%;
+    border-radius: 25px;
+    padding:30px;
+}
+.card-two{
+    background-color:rgb(236, 225, 233); 
+    margin-left: 2%;
+    border-radius: 25px;
+    padding:30px;
+}
+.card-three{
+    background-color:rgb(241, 230, 216); 
+    margin-left: 2%;
+    margin-right: 5%;
+    border-radius: 25px;
+    padding:30px;
+}
+
+
+
+
+
+
+
+
