@@ -92,8 +92,15 @@ width:100%;
     width:100%;
     margin-left: 5%;
     
-
-    }
+}
+.footer-section{
+    height:140px;
+    background-color: black;
+    text-align: center;
+    color:white;
+    margin:0;
+    padding-top:15px;
+}
 
 
 
