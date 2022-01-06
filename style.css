@@ -85,6 +85,7 @@ width:100%;
 .project-area{
     display: flex;
     margin-top: 90px;
+    margin-bottom: 120px;
     margin-left: 5%;
     margin-right: 5%;
 }
@@ -93,13 +94,45 @@ width:100%;
     margin-left: 5%;
     
 }
+.gain-experience{
+    display: flex;
+    margin-top: 70px;
+    margin-bottom: 120px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.gain-experience img {
+    width:100%;
+}
+.half-width{
+    margin-left: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 .footer-section{
+    font-family: 'Lobster', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
     height:140px;
     background-color: black;
     text-align: center;
     color:white;
     margin:0;
     padding-top:15px;
+}
+.red-color{
+    color:red;
 }
 
 
