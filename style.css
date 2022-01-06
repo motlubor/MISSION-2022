@@ -94,10 +94,13 @@ width:100%;
     margin-left: 5%;
     
 }
+.center-align{
+    text-align: center;
+}
 .gain-experience{
     display: flex;
     margin-top: 70px;
-    margin-bottom: 0px;
+    margin-bottom: 100px;
     margin-left: 5%;
     margin-right: 5%;
 }
