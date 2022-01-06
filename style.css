@@ -46,8 +46,6 @@ p{
 .second-section{
     display:flex
 }
-
-
 .middle-section{
     display:flex;
 }
@@ -113,19 +111,6 @@ width:100%;
 .half-width{
     margin-left: 5%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 .footer-section{
     font-family: 'Lobster', cursive;
 font-family: 'Poppins', sans-serif;
