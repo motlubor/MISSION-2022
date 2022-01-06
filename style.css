@@ -70,7 +70,18 @@ h1{
     border-radius: 25px;
     padding:30px;
 }
-
+.develop-area{
+    display:flex;
+    margin-top: 90px;
+    
+}
+.develop-area img {
+width:100%;
+}
+.give-margin{
+    margin-right: 5%;
+    margin-left: 10%;
+}
 
 
 
